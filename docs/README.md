@@ -1,4 +1,5 @@
-# TinyML and Efficient Deep Learning Computing学习笔记 
+# 姿态估计学习笔记 {docsify-ignore-all}
+
 &emsp;&emsp;本项目是TinyML and Efficient Deep Learning Computing课程的学习笔记
 - 第1章 
 - 第2章 
